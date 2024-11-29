@@ -65,9 +65,9 @@ Le projet vise à fournir une solution complète pour :
 5. **Accéder à l'application**  
    - Ouvrez un navigateur web et accédez à l'application via l'URL suivante :  
      ```
-     http://localhost:8080/NomDeVotreApplication
+     http://localhost:8080/EcoleSalam
      ```
-   - Remplacez `NomDeVotreApplication` par le nom attribué lors de la configuration.
+   - Remplacez `EcoleSalam` par le nom attribué lors de la configuration.
 
 ## 🎨 Interfaces Clés  
 - **Page d'accueil** : Présentation générale des fonctionnalités et options de navigation.  
